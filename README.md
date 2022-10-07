@@ -1,2 +1,1 @@
-# PJ2-JavaFX-Cinema
-CinemaApp with JavaFX
+# Javafx-cinema-2
